@@ -5,13 +5,15 @@ Vancouver Erlang Meetup
 
 This GitHub project contains the wiki & sample source code for the [Vancouver Erlang Meetup](http://www.meetup.com/erlang-vancouver/).
 
+## Wiki
+
+[https://github.com/kenpratt/vancouver_erlang/wiki](https://github.com/kenpratt/vancouver_erlang/wiki)
+
 ## Installing Erlang
 
 ### Mac & Linux
 
-Basho has good instructions in their wiki: [http://wiki.basho.com/Installing-Erlang.html](http://wiki.basho.com/Installing-Erlang.html)
-
-**IMPORTANT:** Replace `R13B04` with `R14B01` to get the most current version of Erlang.
+Basho has good instructions in their wiki: [http://wiki.basho.com/Installing-Erlang.html](http://wiki.basho.com/Installing-Erlang.html) (**IMPORTANT:** Replace `R13B04` with `R14B01` to get the most current version of Erlang.)
 
 ### Windows
 
