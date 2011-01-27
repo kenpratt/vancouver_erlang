@@ -1,4 +1,4 @@
-Vancouver Erlang Meetup
+[Vancouver Erlang Meetup](http://www.meetup.com/erlang-vancouver/)
 =======================
 
 ## Overview
